@@ -22,10 +22,10 @@ The code is not for commercial use.
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-Acknowledgements
+## Acknowledgements  
 The PyHBM was developed as a part of collaboration between the Chair of Applied Mechanics (AM), Technical University of Munich (TUM) and Instituto Superior Técnico, Lisbon.
 
-List of Developers:
+## List of Developers:
 
 Tiago Martins  
 IDMEC, Instituto Superior Técnico, Universidade de Lisboa  
